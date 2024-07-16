@@ -1,29 +1,12 @@
-# cocktails-pinia
+## Проект Cocktails на Vue3 + Pinia + Router
 
-This template should help get you started developing with Vue 3 in Vite.
+В данном проекте можно выбирать из списка ингредиентов и смотреть подборку коктелей, внутри карточки находится описание и рецепт.
 
-## Recommended IDE Setup
+Также присутствует возможность выбрать случайный коктейль.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Cocktails project on Vue3 + Pinia + Router
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+In this project, you can choose from a list of ingredients and watch a selection of cocktails, inside the card there is a description and recipe.
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+There is also an option to choose a random cocktail.
